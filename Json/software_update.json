@@ -2,7 +2,6 @@
 "InoTcpFwLoader":
     {
         "LatestVerison":"V0.5",
-        https://raw.githubusercontent.com/:owner/:repo/master/:path
         "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/InoTcpFwLoader.exe",
         "UpdateTime":"2019-05-12",
             "ReleaseNote":"\n 1.增减本地自动升级功能.\n2.优化“关于”界面"
