@@ -1,30 +1,9 @@
 ﻿{
-"BurnLabel":
-    {
-        "LatestVerison":"V0.5",
-        "Url":"E:/我的软件/BurnLabel.exe",
-        "UpdateTime":"2019-05-08",
-            "ReleaseNote":"\n 1.增减本地自动升级功能.\n2.优化“关于”界面"
-    },
-"ThyssenLabel":
-    {
-        "LatestVerison":"V0.8",
-        "Url":"E:/我的软件/ThyssenLabel.exe",
-        "UpdateTime":"2019-05-08",
-            "ReleaseNote":"\n 1.增减本地自动升级功能.\n2.优化“关于”界面"
-    },
-"qt-serial":
-    {
-        "LatestVerison":"V1.3",
-        "Url":"E:/我的软件/qt-serial.exe",
-        "UpdateTime":"2019-05-08",
-            "ReleaseNote":"\n 1.增减本地自动升级功能.\n2.优化“关于”界面"
-    },
 "InoTcpFwLoader":
     {
         "LatestVerison":"V0.5",
-        "Url":"E:/我的软件/InoTcpFwLoader.exe",
-        "UpdateTime":"2019-05-08",
+        "Url":"https://github.com/hzd12368/MySoftwareStack/blob/master/SoftWare/InoTcpFwLoader.exe",
+        "UpdateTime":"2019-05-12",
             "ReleaseNote":"\n 1.增减本地自动升级功能.\n2.优化“关于”界面"
     }
 }
