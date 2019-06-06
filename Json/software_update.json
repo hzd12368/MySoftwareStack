@@ -12,9 +12,7 @@
         "UpdateTime":"2019-05-19",
             "ReleaseNote":"1. 初步完成自动升级功能。\n2. 无法使用HTTPS协议。"
     }
-	]
-},
-{
+	],
 "BurnLabel":[
     {
         "LatestVerison":"V1.0.7",
