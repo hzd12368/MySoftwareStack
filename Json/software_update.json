@@ -13,4 +13,21 @@
             "ReleaseNote":"1. 初步完成自动升级功能。\n2. 无法使用HTTPS协议。"
     }
 	]
+},
+{
+"BurnLabel":[
+    {
+        "LatestVerison":"V1.0.7",
+        "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/AppTest_V1.0.3.exe",
+        "UpdateTime":"2019-06-04",
+            "ReleaseNote":"1. 修正自动升级流程。\n2. 更正重命名无法连接JSon的问题。\n3. 统一更新系统的版本号。"
+    },
+	{
+        "OldVerison":"V1.0.2",
+        "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/AppTest_V1.0.2.exe",
+        "UpdateTime":"2019-05-19",
+            "ReleaseNote":"1. 初步完成自动升级功能。\n2. 无法使用HTTPS协议。"
+    }
+	]
 }
+
