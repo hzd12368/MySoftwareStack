@@ -15,7 +15,13 @@
 	],
 "BurnLabel":[
     {
-        "LatestVerison":"V1.0.7",
+        "LatestVerison":"V1.0.8",
+        "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/AppTest_V1.0.3.exe",
+        "UpdateTime":"2019-06-18",
+            "ReleaseNote":"1. 增加Txt文件功能"
+    },    
+    {
+        "OldVerison":"V1.0.7",
         "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/AppTest_V1.0.3.exe",
         "UpdateTime":"2019-06-04",
             "ReleaseNote":"1. 修正自动升级流程。\n2. 更正重命名无法连接JSon的问题。\n3. 统一更新系统的版本号。"
