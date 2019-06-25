@@ -21,7 +21,13 @@
 	],
 "BurnLabel":[
     {
-        "LatestVerison":"V1.0.8",
+        "LatestVerison":"V1.0.9",
+        "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/AppTest_V1.0.3.exe",
+        "UpdateTime":"2019-06-24",
+            "ReleaseNote":"1. 修复升级系统在网络不正常下，点击版本库导致程序崩溃的问题。\n2. 增加产品参数框功能。"
+    },     
+   {
+       "OldVerison":"V1.0.8",
         "Url":"https://raw.githubusercontent.com/hzd12368/MySoftwareStack/master/SoftWare/AppTest_V1.0.3.exe",
         "UpdateTime":"2019-06-18",
             "ReleaseNote":"1. 增加Txt文件功能"
