@@ -27,7 +27,7 @@
             "ReleaseNote":"1. 修复NOAR和SYstemName顺序问题。\n2. 修复产品参数不能自动填充0的问题。"
     },  
    {
-        "LatestVerison":"V1.0.9",
+        "OldVerison":"V1.0.9",
         "Url":"http://rd-soft/svn/BUS_SOFT/1.个人/huangzhudong3315/99_MySoftwareStack/BurnLabel/BurnLabel_V1.0.9.exe",
         "UpdateTime":"2019-06-24",
             "ReleaseNote":"1. 修复升级系统在网络不正常下，点击版本库导致程序崩溃的问题。\n2. 增加产品参数框功能。"
