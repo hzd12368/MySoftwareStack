@@ -20,8 +20,14 @@
     }
 	],
 "QtSerial":[
+{
+        "LatestVerison":"V1.1.6",
+        "Url":"http://rd-soft/svn/BUS_SOFT/1.个人/huangzhudong3315/99_MySoftwareStack/qt-serial/qt-serial_V1.1.6.exe",
+        "UpdateTime":"2019-07-16",
+            "ReleaseNote":"1. 修复第二次发送Flash片段，时间间隔不稳定的问题。"
+    },
     {
-        "LatestVerison":"V1.1.5",
+        "OldVerison":"V1.1.5",
         "Url":"http://rd-soft/svn/BUS_SOFT/1.个人/huangzhudong3315/99_MySoftwareStack/qt-serial/qt-serial_V1.1.5.exe",
         "UpdateTime":"2019-07-16",
             "ReleaseNote":"1. 修复第二次发送Flash片段，时间间隔不稳定的问题。"
